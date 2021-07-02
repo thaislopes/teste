@@ -1,0 +1,43 @@
+imput{
+	display:block;
+	width:68px;
+	margin:3px 0;
+	float:left;
+	margin-left:15px;
+}
+.cadastro{
+	border:solid 1px;
+	border-radius:3px;
+	background:#999;
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-top:3%;
+	margin-left:30%;
+	margin-right:30%;
+	padding:10px;
+}
+
+.top{
+	background:#666;
+	color:#000;
+	margin-top:-21px;	
+	margin-left:-10px;
+	margin-right:-10px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+}
+h1{
+	margin-top:10px;
+	text-align:center;
+	padding:5px;
+}
+.rodape{
+	margin-top:22%;
+	background:#666;
+	margin-left:-10px;
+	margin-right:-10px;
+	padding:4px;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}

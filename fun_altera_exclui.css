@@ -1,0 +1,40 @@
+.top{
+	background:#666;
+	color:#000;
+	margin-top:-21px;	
+	margin-left:-10px;
+	margin-right:-10px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+	}
+h1{
+	margin-top:10px;
+	text-align:center;
+	padding:5px;
+}
+.rodape{
+	margin-top:22%;
+	background:#666;
+	margin-left:-10px;
+	margin-right:-10px;
+	padding:4px;
+}
+p{
+	text-align:center;
+	font-size:20px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.func{
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;	
+}
+table{
+	border-radius:3px;
+	background:#CCC;
+	margin-left:10%;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
